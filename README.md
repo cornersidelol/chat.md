@@ -170,7 +170,7 @@ This prompt replaced the barcode scanner section with **ingredient scanner** sec
 > This update was **instantly applied across the entire prototype** (hero subheadline, feature showcase, final CTA, app screenshots) and became the **official final feature set**. The switch to **Ingredient Scanner + addition of Health Tracker** made the value proposition **significantly stronger and more accurate**, directly influencing the **App Store listing copy and marketing messaging** moving forward.
 
 ---
-# AI Interaction Overview for Our App
+
 
 Here are **3 specific prompts** I used with **Grok** to implement into **Figma**, along with summaries of the responses and their influence on our app:
 
